@@ -1,0 +1,21 @@
+{
+  "name": "practice",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "+1 <music24241@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "bootstrap": "^4.3.1"
+  }
+}

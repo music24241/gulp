@@ -1,0 +1,17 @@
+$primary-color: blue;
+
+body{
+  color: $primary-color;
+}
+
+a{
+  color: green;
+  transform: translate(-50px);
+  filter: blur(3px);
+}
+
+.box{
+  width: 100px;
+  height: 50px;
+  transform: translate(50px);
+}
